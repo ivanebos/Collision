@@ -1,2 +1,2 @@
-# collision
-Figuring out pygame library
+# Collision
+Creating simple collition function for 2 objects
